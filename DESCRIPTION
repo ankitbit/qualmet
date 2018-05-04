@@ -1,0 +1,15 @@
+Package: qualmet
+Type: Package
+Title: Quality Metrics for Community Detection
+Version: 0.1.0
+Author: Ankit Tewari
+Maintainer: The package maintainer <ankittewari@acm.org>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends: igraph, 
+        igraphdata
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
