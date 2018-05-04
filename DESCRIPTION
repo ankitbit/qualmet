@@ -4,8 +4,7 @@ Title: Quality Metrics for Community Detection
 Version: 0.1.0
 Author: Ankit Tewari
 Maintainer: The package maintainer <ankittewari@acm.org>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Quality Metrics for Community Detection
 Depends: igraph, 
         igraphdata
 License: What license is it under?
